@@ -1,0 +1,22 @@
+{
+    "api_key": "API",
+    "api_secret": "SECRETE",
+    "symbol": "EDUUSDT",
+    "side": "SELL",
+    "order_type": "LIMIT",
+    "price": "5",
+    "quantity": "11.0921",
+    "start_time": "2023-04-28T14:59:30",
+    "initial_order_retry_interval": 0.01,
+    "initial_order_expiration_time": 1,
+    "order_execution_interval": 30,
+    "orders_after_cancel": [
+        {
+            "symbol": "EDUUSDT",
+            "side": "SELL",
+            "type": "LIMIT",
+            "price": "0.5",
+            "quantity": "11.0921"
+        }
+    ]
+}
